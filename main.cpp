@@ -8,7 +8,9 @@ using namespace std;
 
 int main()
 {
-  string first = "Greysen", middle = "Jablinski", last = "Roy-Pascoe";
+  string first = "G", middle = "J", last = "R";
 
   cout << first << " " << middle << " " << last;
+    //I put a space between each variable because why not?
+    //I thought it looked cool
 }
