@@ -1,3 +1,10 @@
+//The main branch for some exercises
 #include <iostream>
 
-int main() { std::cout << "Hello World!\n"; }
+using namespace std;
+
+int main()
+{
+
+return 0;
+}
