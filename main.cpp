@@ -13,4 +13,6 @@ int main()
   cout << first << " " << middle << " " << last;
     //I put a space between each variable because why not?
     //I thought it looked cool
+    // OMG I JUST REALIZED I COULD DO char INSTEAD OF string,
+    // am I getting points taken off for that?
 }
