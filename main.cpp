@@ -12,4 +12,5 @@ int main()
     // Should I have put my real information here?
   
   cout << name << endl << address << endl << phone << endl;
+  return 0;
 }
