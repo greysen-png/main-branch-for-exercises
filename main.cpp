@@ -7,3 +7,8 @@
 using namespace std;
 
 int main()
+{
+  string first = "Greysen", middle = "Jablinski", last = "Roy-Pascoe";
+
+  cout << first << " " << middle << " " << last;
+}
