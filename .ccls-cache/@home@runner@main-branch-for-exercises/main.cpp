@@ -10,7 +10,7 @@ int main()
 {
   string first = "G", middle = "J", last = "R";
 
-  cout << first << " " << middle << " " << last;
+  cout << first << " " << middle << " " << last << endl;
     //I put a space between each variable because why not?
     //I thought it looked cool
     // OMG I JUST REALIZED I COULD DO char INSTEAD OF string,
